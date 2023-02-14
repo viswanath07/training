@@ -1,3 +1,4 @@
+//add 2 binary numbers
 import java.util.*;
 class sums {
     public static void  main(String ar[])
